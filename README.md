@@ -1,0 +1,2 @@
+# Solidity Normal Logic
+ 
