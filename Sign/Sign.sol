@@ -6,6 +6,9 @@ contract VerifySignature {
     // use this function to get the hash of any string
     function getHash(string memory str) public pure returns (bytes32) {
         return keccak256(abi.encodePacked(str));
+        // below method will use same hash method as above
+        // const Web3 = require('web3')
+        // val2 = Web3.utils.soliditySha3("hello");
     }
     
     
