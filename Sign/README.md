@@ -1,4 +1,5 @@
-https://cryptomarketpool.com/how-to-sign-verify-an-ethereum-message-off-chain/
+- https://cryptomarketpool.com/how-to-sign-verify-an-ethereum-message-off-chain/
+- https://solidity-by-example.org/signature/
 
 
 `sign the message using remix` 
