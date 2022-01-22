@@ -1,4 +1,4 @@
-pragma solidity ^0.7;
+pragma solidity ^0.8.0;
 
 contract VerifySignature {
     
