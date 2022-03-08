@@ -19,6 +19,12 @@
             "decimals": 18,
             "name": "Pangolin",
             "symbol": "PNG",
+           ,{
+            "chainId": 43114,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Pangolin",
+            "symbol": "PNG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         }
     ]
