@@ -16,6 +16,7 @@
         "decimals": 18,
         "name": "Pangolin1",
         "symbol": "PNG1",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
     } ,
     {
       "chainId": 43114,
