@@ -12,10 +12,10 @@
   "tokens": [
       {
         "chainId": 43113,
-        "address": "0x60781C2586D68229fde47564546784ab3fACA982",
-        "decimals": 18,
-        "name": "Pangolin1",
-        "symbol": "PNG1",
+        "address": "0xf947C775FeB9d0E237A7E1567DCE916E9534a256",
+        "decimals": 8,
+        "name": "GodToken",
+        "symbol": "God",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
     } ,
     {
