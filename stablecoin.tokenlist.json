@@ -1,0 +1,25 @@
+{
+    "name": "AVAX DeFi Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "dex"
+    ],
+    "version": {
+        "major": 12,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2022-02-27T01:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        }
+    ]
+}
